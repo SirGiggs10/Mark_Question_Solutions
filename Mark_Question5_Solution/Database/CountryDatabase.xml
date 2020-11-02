@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--MARK'S COUNTRY DATABASE-->
+<Countries>
+  <Country CountryId="1" CountryName="NIGERIA" />
+  <Country CountryId="2" CountryName="AMERICA" />
+  <Country CountryId="3" CountryName="CHINA" />
+  <Country CountryId="4" CountryName="SINGAPORE" />
+</Countries>
